@@ -1,4 +1,4 @@
-baseURL = "https://flog.humayun.info/"
+baseURL = "https://flog.humayun.info/flog/"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = false
